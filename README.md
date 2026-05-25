@@ -24,7 +24,7 @@ This project showcases the integration of Blazor's component-based UI model with
 ### Clone and Build
 
 ```bash
-git clone https://github.com/SyncfusionExamples/blazor-wpf.git
+git clone https://github.com/SyncfusionExamples/blazor-with-wpf.git
 cd blazor-wpf/blazor-with-wpf/WPF_Grid
 ```
 
